@@ -1,0 +1,37 @@
+{
+  "status": "needs-original-wording-and-publishing-approval",
+  "source": {
+    "name": "LinkedIn recommendations",
+    "url": "https://www.linkedin.com/in/sethiishan/"
+  },
+  "entries": [
+    {
+      "name": "Shahrooq Pathan",
+      "date": "July 2020",
+      "relationship": "Worked together on the Monash Industry Experience team",
+      "summaryTopics": ["teamwork", "hands-on development", "communication", "leadership"],
+      "exactQuote": null
+    },
+    {
+      "name": "Ahsan Aziz",
+      "date": "November 2019",
+      "relationship": "Network Security tutor at Monash University",
+      "summaryTopics": ["diligence", "programming", "computer security", "communication"],
+      "exactQuote": null
+    },
+    {
+      "name": "Pulkit Chaurasia",
+      "date": "November 2019",
+      "relationship": "Managed Ishan during a TCS internship",
+      "summaryTopics": ["technical capability", "learning", "emerging technologies", "project leadership"],
+      "exactQuote": null
+    },
+    {
+      "name": "Dimaz Wijaya",
+      "date": "November 2019",
+      "relationship": "Blockchain tutor at Monash University",
+      "summaryTopics": ["academic performance", "engagement", "assessment consistency"],
+      "exactQuote": null
+    }
+  ]
+}
